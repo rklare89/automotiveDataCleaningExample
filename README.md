@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates data cleaning techniques for a vehicle sales dataset, showcasing skills in handling both numeric and categorical data. The script, `vehicle_data_cleaning.py`, processes the `syedanwarafridi/vehicle-sales-data` dataset from Kaggle, cleaning columns like `year`, `odometer`, `make`, `model`, `trim`, `transmission`, and `body` to prepare them for analysis. The project emphasizes robust error handling, standardization, and logging, making it suitable for a data science or analytics portfolio.
+This project demonstrates data cleaning techniques for a vehicle sales dataset, showcasing skills in handling both numeric and categorical data. The script, `vehicle_data_cleaning.py`, processes the `syedanwarafridi/vehicle-sales-data` dataset from Kaggle, cleaning columns like `year`, `odometer`, `make`, `model`, `trim`, `transmission`, and `body` to prepare them for analysis.
 
 ## Dataset
 
