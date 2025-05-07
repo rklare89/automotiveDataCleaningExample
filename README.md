@@ -128,11 +128,6 @@ This project showcases the following skills:
 - **Modular Code**: Reusable functions (`convert_columns_to_int`, `clean_categorical_columns`) for scalability.
 - **Reproducibility**: Clear setup instructions and use of a public Kaggle dataset.
 
-To enhance the project, consider:
-- Adding visualizations (e.g., bar plots of `body` or `make` distributions) to show cleaning impact.
-- Displaying before-and-after value counts for categorical columns.
-- Testing edge cases (e.g., a DataFrame with messy `body` values) to demonstrate robustness.
-
 ## Notes
 
 - **Dataset Columns**: The script assumes `car_details.csv` contains `year`, `odometer`, `make`, `model`, `trim`, `transmission`, and `body`. If column names differ, update `col_to_int` or `col_to_clean` accordingly.
